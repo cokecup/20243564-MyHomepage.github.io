@@ -1,0 +1,7 @@
+.container1 {display: flex; flex-direction: row; justify-content: flex-end;}
+.container1 {font-size:x-small;}
+.container1 {justify-content:space-evenly;}
+.container1:hover {background-color: rgb(50, 187, 187);}
+.item1:hover {color: chartreuse;}
+.li {text-decoration-line: none;}
+.container1:hover {font-weight: 900;}

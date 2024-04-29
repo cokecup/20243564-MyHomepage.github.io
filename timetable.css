@@ -1,0 +1,5 @@
+td { text-align: center; border:1px dotted rgb(117, 16, 16);}
+td:hover {background:rgb(255, 238, 0) ; color: rgb(43, 0, 255);}
+thead {background: gray;}
+
+
